@@ -8,7 +8,7 @@ BitBroker is a policy-based, data sharing engine which enables you to securely s
 * In ways which you _allow_
 * With organisations that you _approve_
 
-It's a complete, end-to-end data sharing solution, allowing you to: __Share Your Data with Confidence__
+It's a complete, end-to-end data sharing solution, allowing you to __Share Your Data with Confidence__
 
 If you are new to BitBroker, you should head over to our main website at [www.bit-broker.io](https://www.bit-broker.io/). There you can learn all about the project, what it does, how it works and how to leverage it for your own data sharing use cases. Amongst other things, you will find:
 
