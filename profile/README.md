@@ -15,7 +15,7 @@ If you are new to BitBroker, you should head over to our main website at [www.bi
 * A full set of interactive [demos](https://demo.bit-broker.io) which show a live working instance of BitBroker
 * A clear and simple [getting started guide](https://www.bit-broker.io/docs/getting-started/), to help you deploy and operate your own BitBroker instance
 * Full system and technical [documentation](https://www.bit-broker.io/docs/), detailing everything you need to know to leverage BitBroker
-* Lots of [samples and example](https://www.bit-broker.io/docs/examples/) so get you started on extracting value from BitBroker
+* Lots of [samples and example](https://www.bit-broker.io/docs/getting-started/demo/) so get you started on extracting value from BitBroker
 
 Why not start by playing with the demo instance. Its just a few clicks aways and requires nothing but a browser and a few minutes of your time.
 
