@@ -1,5 +1,3 @@
 # Welcome to BitBroker
 
-__COMING SOON__
-
-Head over to the [Project Profile](https://github.com/bit-broker/.github/tree/main/profile) page for the lowdown
+Head over to the [Project Profile](https://github.com/bit-broker/.github/tree/main/profile) page for the all the project information.
