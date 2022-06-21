@@ -1,7 +1,5 @@
 # Welcome to BitBroker
 
-__COMING SOON__
-
 BitBroker is a policy-based, data sharing engine which enables you to securely share:
 
 * The data segments you _permit_
