@@ -34,7 +34,7 @@ Repo | Description
 `bit-broker` | The main API based brokering engine
 `portal` | The web-portal, wrapping all services within a UI
 `website` | The public website at [www.bit-broker.io](https://www.bit-broker.io/)
-`k8s` | A full suite of [Kubernetes](https://kubernetes.io/) deployment charts and scripts
+`charts` | A full suite of [Kubernetes](https://kubernetes.io/) deployment charts and scripts
 `auth-service` | An authorisation service used to guard access to APIs
 `rate-service` | A rate limiting service used to policy based access controls
 
