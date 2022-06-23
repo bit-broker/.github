@@ -96,7 +96,7 @@ Participants asked to stop any unacceptable behaviour are expected to comply imm
 
 ## Version and Release Methodology
 
-This procedure applies to components in the following repositories:
+This procedure applies to the following repositories:
 
 * [bit-broker](https://github.com/bit-broker/bit-broker)
 * [examples](https://github.com/bit-broker/examples)
@@ -126,12 +126,11 @@ We endeavor to keep the previous version of BitBroker operational and in good-or
 
 ### BitBroker Core Service
 
-* As the `coordinator`, `contributor` and `consumer` services are in a common repository, they will share the same version numbers. This is true even when changes have been made that only affect one of the services.
+As the `coordinator`, `contributor` and `consumer` services are in a common repository, they will share the same version numbers. This is true even when changes have been made that only affect one of the services.
 
 ### API versioning
 
-* Incompatible REST API changes will require a new REST API version in the API URLs.
-* As the `coordinator`, `contributor` and `consumer` services implement the BitBroker REST API, the major version of these components to track the REST API version.
+Incompatible REST API changes will require a new REST API version in the API URLs. As the `coordinator`, `contributor` and `consumer` services implement the BitBroker REST API, the major version of these components to track the REST API version.
 
 ### Database
 
@@ -149,13 +148,15 @@ Changes to these services will be announced here and on our [Twitter](https://tw
 
 Repo | Latest Release
 --- | ---
-[bit-broker](https://github.com/bit-broker/bit-broker) | (v1.0.0)[https://github.com/bit-broker/bit-broker/tree/v1.0.0]
-[examples](https://github.com/bit-broker/examples) | (v1.0.0)[https://github.com/bit-broker/examples/tree/v1.0.0]
-[charts](https://github.com/bit-broker/charts) | (v1.0.0)[https://github.com/bit-broker/charts/tree/v1.0.0]
-[website](https://github.com/bit-broker/website) | (v1.0.0)[https://github.com/bit-broker/website/tree/v1.0.0]
+[bit-broker](https://github.com/bit-broker/bit-broker) | [v1.0.0](https://github.com/bit-broker/bit-broker/tree/v1.0.0)
+[examples](https://github.com/bit-broker/examples) | [v1.0.0](https://github.com/bit-broker/examples/tree/v1.0.0)
+[charts](https://github.com/bit-broker/charts) | [v1.0.0](https://github.com/bit-broker/charts/tree/v1.0.0)
+[website](https://github.com/bit-broker/website) | [v1.0.0](https://github.com/bit-broker/website/tree/v1.0.0)
 
 #### Ancillary Repositories
 
-[auth-service](https://github.com/bit-broker/auth-service) | (v1.0.0)[https://github.com/bit-broker/auth-service/tree/v1.0.0]
-[rate-service](https://github.com/bit-broker/rate-service) | (v1.0.0)[https://github.com/bit-broker/rate-service/tree/v1.0.0]
+Repo | Latest Release
+--- | ---
+[auth-service](https://github.com/bit-broker/auth-service) | [v1.0.0](https://github.com/bit-broker/auth-service/tree/v1.0.0)
+[rate-service](https://github.com/bit-broker/rate-service) | [v1.0.0](https://github.com/bit-broker/rate-service/tree/v1.0.0)
 
